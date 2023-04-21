@@ -1,0 +1,17 @@
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\bin\Debug\net6.0-windows\Programa09_05.exe
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\bin\Debug\net6.0-windows\Programa09_05.deps.json
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\bin\Debug\net6.0-windows\Programa09_05.runtimeconfig.json
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\bin\Debug\net6.0-windows\Programa09_05.dll
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\bin\Debug\net6.0-windows\Programa09_05.pdb
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.csproj.AssemblyReference.cache
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.Form1.resources
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.csproj.GenerateResource.cache
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.AssemblyInfoInputs.cache
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.AssemblyInfo.cs
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.csproj.CoreCompileInputs.cache
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.dll
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\refint\Programa09_05.dll
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.pdb
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\Programa09_05.genruntimeconfig.cache
+C:\Users\Saigel\source\repos\Programas en CS\Programa09_05\obj\Debug\net6.0-windows\ref\Programa09_05.dll
